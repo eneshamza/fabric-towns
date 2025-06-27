@@ -1,4 +1,4 @@
-![title](https://cdn.modrinth.com/data/cached_images/ad75dad407cb47fc8a89f2b455f8e28eb5fe5f75.png)
+![Logo](https://cdn.modrinth.com/data/cached_images/ad75dad407cb47fc8a89f2b455f8e28eb5fe5f75.png)
 
 an town _~~plugin~~_ **mod** for fabric!
 
